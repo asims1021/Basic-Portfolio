@@ -44,14 +44,14 @@ ul li {
 
 .box1 {
 	display: inline-block;
-	height: 400px;
+	height: 750px;
 	width: 600px;
 	margin: 1em;
 	background-color: white;
 	margin-left: 133px;
 }
 
-#about {
+#port {
 	font-size: 25px;
 	padding-top: 25px;
 	padding-left: 24px;
@@ -59,8 +59,119 @@ ul li {
 	font-weight: bold;
 }
 
-#abouttext {
-	text-align: left;
+.box2{
+	height: 200px;
+	width: 250px;
+	background-color: grey;
+	float: right;
+	margin: 25px;
+}
+
+.box22 {
+	height: 50px;
+	width: 250px;
+	background-color: #4aaaa5;
+	margin-top: 135px; 
+}
+
+#rpg {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.box3{
+	height: 200px;
+	width: 250px;
+	background-color: grey;
+	float: right;
+	margin: 25px;
+}
+
+.box33 {
+	height: 50px;
+	width: 250px;
+	background-color: #4aaaa5;
+	margin-top: 135px; 
+}
+
+#hangman {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.box4{
+	height: 200px;
+	width: 250px;
+	background-color: grey;
+	float: right;
+	margin: 25px;
+}
+
+.box44 {
+	height: 50px;
+	width: 250px;
+	background-color: #4aaaa5;
+	margin-top: 135px; 
+}
+
+#rutgers {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.box5{
+	height: 200px;
+	width: 250px;
+	background-color: grey;
+	float:right;
+	margin: 25px;
+}
+
+.box55 {
+	height: 50px;
+	width: 250px;
+	background-color: #4aaaa5;
+	margin-top: 135px; 
+}
+
+#trivia {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.box6{
+	height: 200px;
+	width: 250px;
+	background-color: grey;
+	float:left;
+	margin: 25px;
+}
+
+.box66 {
+	height: 50px;
+	width: 250px;
+	background-color: #4aaaa5;
+	margin-top: 135px; 
+}
+
+#rock {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	padding-top: 15px;
 }
 
 #connect {
@@ -100,13 +211,6 @@ ul li {
 	width: 50px;
 }
 
-#bioimage{
-	padding-left: 25px;
-	padding-top: 15px;
-	width: 150px;
-	height: 150px;
-}
-
 .footer{
   position: fixed;
   right: 0;
@@ -116,5 +220,4 @@ ul li {
   background-color: #666666;
   text-align: center;
   color: white;
-
 }
